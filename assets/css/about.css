@@ -72,12 +72,12 @@ div{
     border-right: 1px solid rgb(196, 196, 196);
 }
 
-#projects{
+#work{
     width: 300px;
     text-align: justify;
 }
 
-#projects h2{
+#work h2{
     text-decoration: underline;
     text-align: center;
 }
